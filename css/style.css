@@ -1,0 +1,14 @@
+
+h1 {
+  text-align: center;
+}
+
+div.container {
+  display: flex;
+}
+
+div.container h1 ,
+div.container a {
+  font-family: 60px;
+  margin: auto;
+}
